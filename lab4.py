@@ -1,3 +1,4 @@
+#publishing 
 class Flight:
     def __init__(self, flight_id, from_city, to_city, price):
         self.flight_id = flight_id
